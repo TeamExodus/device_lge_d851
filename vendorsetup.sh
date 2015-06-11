@@ -1,1 +1,1 @@
-add_lunch_combo cm_d851-userdebug
+add_lunch_combo exodus_d851-userdebug
